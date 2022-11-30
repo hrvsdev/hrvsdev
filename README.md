@@ -1,6 +1,6 @@
 
 # Hi, I'm Harsh! 👋
-I'm a passionate software developer from India, mainly focusing on front-end to build creative, attractive and better  apps for web and mobile.
+I'm a passionate software developer from India, mainly focusing on front-end to build creative, attractive and better apps for web and mobile.
 
 # Tech Stack & Tools
 I like to craft apps with various tools to provide the best experience for both Users and Developers.
