@@ -3,7 +3,7 @@
 I'm a passionate software developer from India, mainly focusing on front-end to build creative, attractive and better apps for web and mobile.
 
 # Tech Stack & Tools
-I like to craft apps with different tools to provide the best experience for both Users and Developers.
+I like to craft apps with many different tools to provide the best experience for both Users and Developers.
 
 ### Front End & UI
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
